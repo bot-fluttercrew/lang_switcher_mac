@@ -19,13 +19,13 @@ Usually preinstalled env on folder
 📁 2. Create Python Script
 Create file: for example
 ``` ~/Documents/keyboard-layout-tools/switch_layout_auto.py ```
-✅  3. ##Make it executable:
+✅  3. Make it executable:
 
 ```chmod +x ~/Documents/keyboard-layout-tools/switch_layout_auto.py```
 
-🧩 4. ##Add JSON Rule for Karabiner
+🧩 4. Add JSON Rule for Karabiner
 ```~/.config/karabiner/assets/complex_modifications/cmd_space_switch.json```
-⚙️ 4. ##Activate the Rule in Karabiner
+⚙️ 4. Activate the Rule in Karabiner
 **Open Karabiner-Elements**
 
 Go to Complex Modifications
