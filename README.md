@@ -25,7 +25,7 @@ Create file: for example
 
 🧩 4. Add JSON Rule for Karabiner
 ```~/.config/karabiner/assets/complex_modifications/cmd_space_switch.json```
-⚙️ 4. Activate the Rule in Karabiner
+⚙️ 4.1 Activate the Rule in Karabiner
 **Open Karabiner-Elements**
 
 Go to Complex Modifications
