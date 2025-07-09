@@ -7,24 +7,24 @@ When you press Cmd + Space, a Python script will:
 
 📋 Paste the modified text back
 
- ✅ #Step-by-Step Guide
+ ✅ Step-by-Step Guide
 🔧 1. Install Requirements
 🟦 Karabiner-Elements
 [Install via]  (https://karabiner-elements.pqrs.org)
 or
 ``` brew install Karabiner-Elements ```
 
-🟨 ##Python + dependencies
+🟨 Python + dependencies
 Usually preinstalled env on folder
-📁 2. ##Create Python Script
+📁 2. Create Python Script
 Create file: for example
 ``` ~/Documents/keyboard-layout-tools/switch_layout_auto.py ```
 ✅  3. ##Make it executable:
 
-``` chmod +x ~/Documents/keyboard-layout-tools/switch_layout_auto.py ```
+```chmod +x ~/Documents/keyboard-layout-tools/switch_layout_auto.py```
 
 🧩 4. ##Add JSON Rule for Karabiner
-``` ~/.config/karabiner/assets/complex_modifications/cmd_space_switch.json ```
+```~/.config/karabiner/assets/complex_modifications/cmd_space_switch.json```
 ⚙️ 4. ##Activate the Rule in Karabiner
 **Open Karabiner-Elements**
 
@@ -34,7 +34,7 @@ Click "Add rule"
 
 Enable "Cmd+Space switch layout"
 
-🛑 5. ##Disable macOS default Cmd+Space
+🛑 5. Disable macOS default Cmd+Space
 Go to:
 
 System Settings → Keyboard → Keyboard Shortcuts
