@@ -46,3 +46,5 @@ Disable or reassign Cmd+Space
 🧪 6. Test It
 Select text in any app
 Press Cmd+Space
+
+**Have fun!**
